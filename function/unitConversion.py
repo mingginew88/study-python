@@ -13,3 +13,5 @@ def fahrenheit_to_celsius(f):
 
 ### 확인
 # print(fahrenheit_to_celsius(70))
+
+
