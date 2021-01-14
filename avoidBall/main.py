@@ -46,7 +46,6 @@ def gameOver():
 def drawObject(obj, x, y):
     global gamePad
     gamePad.blit(obj, (x, y))
-    gamePad.blit(obj, (x, y))
 
 # 게임 초기 설정
 def initGame():
