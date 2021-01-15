@@ -52,9 +52,9 @@ def sample_profile():
     df = pd.concat([df, df_temp], axis=1)
 
 ## CSV 생성
-def createCSV():
+def create_csv():
     df.to_csv('./files/sampleData.csv', index=False, encoding='utf-8')
 
 custom_sample()
 # sample_profile()
-createCSV()
+create_csv()
