@@ -20,7 +20,11 @@ word_cloud = WordCloud(font_path='./font/NanumGothic.ttf', stopwords=stop_words,
 # 사이즈 지정
 plt.figure(figsize=(12, 6))
 # 이미지 부드러움 정도
-plt.imshow(word_cloud, interpolation='lanczos')
+# methods = [None, 'none', 'nearest', 'bilinear', 'bicubic', 'spline16',
+#           'spline36', 'hanning', 'hamming', 'hermite', 'kaiser', 'quadric',
+#           'catrom', 'gaussian', 'bessel', 'mitchell', 'sinc', 'lanczos']
+# https://matplotlib.org/3.3.3/gallery/images_contours_and_fields/interpolation_methods.html
+plt.imshow(word_cloud, interpolation='hamming')
 # x, y축 숫자 제거
 plt.axis('off')
 plt.show()
