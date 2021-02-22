@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_df3c77e3fc434d34ad09363ca52f4d80 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_df3c77e3fc434d34ad09363ca52f4d80" ></div>
+        
+</body>
+<script>    
+    
+            var map_df3c77e3fc434d34ad09363ca52f4d80 = L.map(
+                "map_df3c77e3fc434d34ad09363ca52f4d80",
+                {
+                    center: [37.53789052, 127.02468594000001],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 10,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_7f358a00f93c460db2eced4b035334ad = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_df3c77e3fc434d34ad09363ca52f4d80);
+        
+    
+            var marker_d246be51f9ba40caa497a0e3e53e0da9 = L.marker(
+                [37.479804, 127.088505],
+                {}
+            ).addTo(map_df3c77e3fc434d34ad09363ca52f4d80);
+        
+    
+            marker_d246be51f9ba40caa497a0e3e53e0da9.bindTooltip(
+                `<div>
+                     복지센터등
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_e03a52f0c11d42c280f741f405aab2c4 = L.marker(
+                [37.496883, 126.9988301],
+                {}
+            ).addTo(map_df3c77e3fc434d34ad09363ca52f4d80);
+        
+    
+            marker_e03a52f0c11d42c280f741f405aab2c4.bindTooltip(
+                `<div>
+                     주요거리
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_db652e7389cf491e97494e5684b87d7f = L.marker(
+                [37.501216, 126.868388],
+                {}
+            ).addTo(map_df3c77e3fc434d34ad09363ca52f4d80);
+        
+    
+            marker_db652e7389cf491e97494e5684b87d7f.bindTooltip(
+                `<div>
+                     주요거리
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_182e0f9c37dd4676b6f709f1e75ed7f9 = L.marker(
+                [37.60536, 127.073476],
+                {}
+            ).addTo(map_df3c77e3fc434d34ad09363ca52f4d80);
+        
+    
+            marker_182e0f9c37dd4676b6f709f1e75ed7f9.bindTooltip(
+                `<div>
+                     공원
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_aecc664a40b548cca97d020da4aa7349 = L.marker(
+                [37.6061896, 127.0942306],
+                {}
+            ).addTo(map_df3c77e3fc434d34ad09363ca52f4d80);
+        
+    
+            marker_aecc664a40b548cca97d020da4aa7349.bindTooltip(
+                `<div>
+                     공공기관
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>

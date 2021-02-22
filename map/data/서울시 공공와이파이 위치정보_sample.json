@@ -1,0 +1,9 @@
+{
+"DESCRIPTION" : {"PLACE_NAME":"지역명","CATEGORY":"유형","INSTL_X":"설치위치(X좌표)","INSTL_Y":"설치위치(Y좌표)","PLACE_ADDR":"설치주소","GU_NM":"구명","PLACE_ADDR_SUB":"상세설치장소","OBJECTID":"콘텐츠아이디","INSTL_DIV":"설치기관(회사)"},
+"DATA" : [{"category":"복지센터등","gu_nm":"강남구","instl_y":"37.479804","place_name":"강남구 광평로34길 124","instl_div":"서울시(시스코)","place_addr":"아동복지센터","objectid":"WF120001","instl_x":"127.088505","place_addr_sub":"아동복지센터 1F"},
+{"category":"주요거리","gu_nm":"서초구","instl_y":"37.496883","place_name":"서울특별시 서초구 사평대로26길 78","instl_div":"LGU+","place_addr":"서래마을","objectid":"WF121495","instl_x":"126.9988301","place_addr_sub":"반포동90-7 청광아트빌라앞 주차장 주정차CCTV"},
+{"category":"주요거리","gu_nm":"구로구","instl_y":"37.501216","place_name":"구로구 안양천로537가길 18","instl_div":"자치구","place_addr":"구로구 안양천로537가길 18","objectid":"WN003066","instl_x":"126.868388","place_addr_sub":"고척동 62-182"},
+{"category":"공원","gu_nm":"중랑구","instl_y":"37.60536","place_name":"중화2동 381-2","instl_div":"자치구","place_addr":"서울장미축제장","objectid":"WN001697","instl_x":"127.073476","place_addr_sub":"서울장미축제장"},
+{"category":"공공기관","gu_nm":"중랑구","instl_y":"37.6061896","place_name":"봉화산로 190","instl_div":"자치구","place_addr":"NPO센터","objectid":"WN001719","instl_x":"127.0942306","place_addr_sub":"NPO센터"}
+]
+}
