@@ -15,7 +15,7 @@ text = '파이썬이 최고 언어중에 최고 늘 짜릿해 파이썬 파이�
 stop_words = set(STOPWORDS)
 stop_words.add('파이썬')
 
-word_cloud = WordCloud(font_path='./font/NanumGothic.ttf', stopwords=stop_words, background_color='white').generate(text)
+word_cloud = WordCloud(font_path='./../font/NanumGothic.ttf', stopwords=stop_words, background_color='white').generate(text)
 
 # 사이즈 지정
 plt.figure(figsize=(12, 6))
