@@ -17,8 +17,7 @@ x = np.arange(len(years))
 # log : y축 log scale로 표시
 
 # 색상
-color = ['red', 'yellow', 'blue']
-
+color = ['red', 'yellow', 'blue', 'black']
 bar_chart = plt.bar(x, values, width=0.4, color=color, linewidth=3, edgecolor="black", align='center', tick_label=years, log=True)
 
 # 배경 색상 지정
@@ -47,3 +46,7 @@ plt.gca().spines['top'].set_visible(False)
 plt.show()
 
 
+# 수평 막대 그래프
+vertical_bar_chart = plt.barh(x, values, height=-0.4, color=color, linewidth=3, edgecolor="gray", align='center', tick_label=years, log=False)
+
+plt.show()
