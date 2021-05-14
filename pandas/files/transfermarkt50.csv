@@ -1,0 +1,51 @@
+﻿number,name,position,age,nation,team,value
+1,Kylian Mbappé,Centre-Forward,22,France,Paris Saint-Germain,€160.00m
+2,Harry Kane,Centre-Forward,27,England,Tottenham Hotspur,€120.00m
+3,Erling Haaland,Centre-Forward,20,Norway,Borussia Dortmund,€110.00m
+4,Mohamed Salah,Right Winger,28,Egypt,Liverpool FC,€110.00m
+5,Neymar,Left Winger,29,Brazil,Paris Saint-Germain,€110.00m
+6,Jadon Sancho,Right Winger,21,England,Borussia Dortmund,€100.00m
+7,Trent Alexander-Arnold,Right-Back,22,England,Liverpool FC,€100.00m
+8,Sadio Mané,Left Winger,29,Senegal,Liverpool FC,€100.00m
+9,Raheem Sterling,Left Winger,26,England,Manchester City,€100.00m
+10,Kevin De Bruyne,Attacking Midfield,29,Belgium,Manchester City,€100.00m
+11,Bruno Fernandes,Attacking Midfield,26,Portugal,Manchester United,€90.00m
+12,Joshua Kimmich,Defensive Midfield,26,Germany,Bayern Munich,€90.00m
+13,Jan Oblak,Goalkeeper,28,Slovenia,Atlético Madrid,€90.00m
+14,Romelu Lukaku,Centre-Forward,27,Belgium,Inter Milan,€90.00m
+15,Marcus Rashford,Left Winger,23,England,Manchester United,€85.00m
+16,Heung-min Son,Left Winger,28,"Korea, South",Tottenham Hotspur,€85.00m
+17,Ansu Fati,Left Winger,18,Spain,FC Barcelona,€80.00m
+18,João Félix,Second Striker,21,Portugal,Atlético Madrid,€80.00m
+19,Frenkie de Jong,Central Midfield,24,Netherlands,FC Barcelona,€80.00m
+20,Lionel Messi,Right Winger,33,Argentina,FC Barcelona,€80.00m
+21,Alphonso Davies,Left-Back,20,Canada,Bayern Munich,€75.00m
+22,Matthijs de Ligt,Centre-Back,21,Netherlands,Juventus FC,€75.00m
+23,Thibaut Courtois,Goalkeeper,29,Belgium,Real Madrid,€75.00m
+24,Marc-André ter Stegen,Goalkeeper,29,Germany,FC Barcelona,€75.00m
+25,Pedri,Attacking Midfield,18,Spain,FC Barcelona,€70.00m
+26,Phil Foden,Central Midfield,20,England,Manchester City,€70.00m
+27,Lautaro Martínez,Centre-Forward,23,Argentina,Inter Milan,€70.00m
+28,Federico Valverde,Central Midfield,22,Uruguay,Real Madrid,€70.00m
+29,Rodri,Defensive Midfield,24,Spain,Manchester City,€70.00m
+30,Mikel Oyarzabal,Left Winger,24,Spain,Real Sociedad,€70.00m
+31,Kai Havertz,Attacking Midfield,21,Germany,Chelsea FC,€70.00m
+32,Marcos Llorente,Central Midfield,26,Spain,Atlético Madrid,€70.00m
+33,Sergej Milinković-Savić,Central Midfield,26,Serbia,SS Lazio,€70.00m
+34,Rúben Dias,Centre-Back,23,Portugal,Manchester City,€70.00m
+35,Bernardo Silva,Attacking Midfield,26,Portugal,Manchester City,€70.00m
+36,Andrew Robertson,Left-Back,27,Scotland,Liverpool FC,€70.00m
+37,Leroy Sané,Right Winger,25,Germany,Bayern Munich,€70.00m
+38,Marquinhos,Centre-Back,26,Brazil,Paris Saint-Germain,€70.00m
+39,Raphaël Varane,Centre-Back,28,France,Real Madrid,€70.00m
+40,Serge Gnabry,Right Winger,25,Germany,Bayern Munich,€70.00m
+41,Leon Goretzka,Central Midfield,26,Germany,Bayern Munich,€70.00m
+42,Virgil van Dijk,Centre-Back,29,Netherlands,Liverpool FC,€70.00m
+43,Casemiro,Defensive Midfield,29,Brazil,Real Madrid,€70.00m
+44,Kingsley Coman,Left Winger,24,France,Bayern Munich,€65.00m
+45,Timo Werner,Centre-Forward,25,Germany,Chelsea FC,€65.00m
+46,Alisson,Goalkeeper,28,Brazil,Liverpool FC,€65.00m
+47,Eduardo Camavinga,Central Midfield,18,France,Stade Rennais FC,€60.00m
+48,Bukayo Saka,Right Winger,19,England,Arsenal FC,€60.00m
+49,Jules Koundé,Centre-Back,22,France,Sevilla FC,€60.00m
+50,Richarlison,Left Winger,24,Brazil,Everton FC,€60.00m
